@@ -1,2 +1,4 @@
 numby
 matplotlib
+umap
+sklearn
